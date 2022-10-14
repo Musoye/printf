@@ -1,4 +1,4 @@
-### This is the name of the Contributor to this github repository
+### These are the names of the Contributors to this github repository
 
 * **Oyebamiji Mustapha** [Mustapha's github](https://github.com/Musoye)
 * **Chibuzo Akana** [Chibuzo's github](https://github.com/buzo22)
