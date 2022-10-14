@@ -1,9 +1,9 @@
-###This is the name of the Contributor to this github repository
+### This is the name of the Contributor to this github repository
 
-* **Oyebamiji Mustapha** <https://github.com/Musoye>
-* **Chibuzo Akano** <https://github.com/buzo22>
+* **Oyebamiji Mustapha** [Mustapha's github](https://github.com/Musoye)
+* **Chibuzo Akana** [Chibuzo's github](https://github.com/buzo22)
 
-#To Contribute on This Project
+# To Contribute on This Project
 1. Fork the Repository.
 2. Clone it.
 3. Push it to your repository.
